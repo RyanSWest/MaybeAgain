@@ -1,4 +1,3 @@
- 
 import Drag from "./imgs/COLORED DRAGON13.jpg";
 import Rodan from "./imgs/Rodan3.jpg";
 import Rhino from "./imgs/RHINOGUN9.jpg";
@@ -22,7 +21,7 @@ import Bunny from'./imgs/Bunny.jpg';
 import Scrawny from'./imgs/Scrawny.jpg';
 import Header from './Header'
 import axios from 'axios';
-import './Grid.css';
+import './grid.css';
 import {Row,Col, Container,Modal} from 'react-bootstrap';
 import {useState, useEffect} from 'react'
  
